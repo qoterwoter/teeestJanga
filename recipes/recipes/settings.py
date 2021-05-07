@@ -25,7 +25,7 @@ SECRET_KEY = 'by@!%k_vum+)bepd=il=o7=jwah4hfj+21f#i*#jskx0%@m%ke'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://teeestjanga.std-962.ist.mospolytech.ru/']
+ALLOWED_HOSTS = ['http://teeestjanga.std-962.ist.mospolytech.ru/','teeestjanga.std-962.ist.mospolytech.ru']
 
 
 # Application definition
